@@ -1,7 +1,7 @@
 {
   "name": "CSS Preprocessor",
   "version": "0.0.1",
-  "description": "DON'T write codes repeatedly.",
+  "description": "SASS, COMPASS.",
   "repository": {
     "type": "git",
     "url": "https://github.com/jun20/workflow-css-prepocessors"
