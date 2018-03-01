@@ -1,0 +1,17 @@
+{
+  "name": "CSS Preprocessor",
+  "version": "0.0.1",
+  "description": "DON'T write codes repeatedly.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jun20/workflow-css-prepocessors"
+  },
+  "author": "mojo",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-connect": "^5.5.0",
+    "gulp-util": "^3.0.8",
+    "gulp-webserver": "^0.9.1"
+  }
+}

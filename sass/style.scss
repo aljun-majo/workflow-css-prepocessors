@@ -1,0 +1,58 @@
+/*!
+Author: aljun
+Theme URI: https://thegoodartisan.com/
+Author URI: http://www.thegoodartisan.com
+Description: Just for Fun @goodartisan
+Version: 1.0.0
+License: GNU General Public License v2 or later
+
+
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Framework
+# Typography
+# Modules
+# Navigation
+	## Header
+	## Links
+	## Menus
+# Accessibility
+# Site
+	## Layout 
+	## About
+	## Portfolio
+
+
+/*--------------------------------------------------------------
+# Framework
+--------------------------------------------------------------*/
+@import "framework/bootstrap-4.0.0/bootstrap";
+
+/*--------------------------------------------------------------
+# Modules
+--------------------------------------------------------------*/
+@import "modules/modules";
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+@import "typography/typography";
+
+/*--------------------------------------------------------------
+# Navigation
+--------------------------------------------------------------*/
+@import "navigation/navigation";
+
+/*--------------------------------------------------------------
+# Accessibility
+--------------------------------------------------------------*/
+@import "accessibility/accessibility";
+
+/*--------------------------------------------------------------
+# Site
+--------------------------------------------------------------*/
+@import "site/site";
+
