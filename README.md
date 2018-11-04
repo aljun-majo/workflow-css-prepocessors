@@ -1,5 +1,5 @@
 # Web Project Workflows with GulpJS: SASS-COMPASS css-prepocessors 
-SASS-COMPASS, Livereload, Bootstrap 4 (Bootstrap sass files only)
+SASS-COMPASS, Livereload, Bootstrap 4 (Bootstrap sass files only, Gulp JS Taskrunner
 
 
 ## Installing
